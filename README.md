@@ -63,8 +63,7 @@ Discord API (planned) · Data reliability logic · Embedded system interfacing
 
 ## 📝 Blog / Logs
 
-- [Velog](#) (작성 중)
-- [TIL 및 학습 기록](#) (작성 예정)
+- [Velog]([#](https://velog.io/@kwon_green/posts)) (작성 중)
 
 
 ---
