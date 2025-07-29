@@ -55,7 +55,7 @@ Discord API (planned) · Data reliability logic · Embedded system interfacing
 
 | 프로젝트명 | 설명 | 링크 |
 |------------|------|------|
-| **CloudBot for Discord** | AWS 기반 디스코드 서버 관리자 도우미 | [🔗 GitHub](#) |
+| **CloudBot for Discord** | AWS 비용 알림 디스코드 봇 | [🔗 GitHub](#) |
 
 
 ---
