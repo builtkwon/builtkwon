@@ -58,7 +58,7 @@ Data reliability logic · Embedded system interfacing · Discord API (planned)
 | 프로젝트명 | 설명 | 링크 |
 |------------|------|------|
 | **CloudBot for Discord** | AWS 비용 알림 디스코드 봇 | [🔗 GitHub](https://github.com/builtkwon/cloud-bill-bot) |
-| **submate** | OTT 구독메이트 매칭 웹앱 | [🔗 GitHub](#) |
+| **SUBMATE** | OTT 구독메이트 매칭 웹앱 | [🔗 GitHub](#) |
 
 ---
 
