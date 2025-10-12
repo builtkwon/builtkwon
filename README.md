@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi there, I'm JINI (권지은,🇰🇷)</h1>
 
 <p align="center">
-  Platform & Cloud Developer 🌐 | 1일 1커밋 챌린지 중 💻
+  Platform & Cloud Developer 🌐
 </p>
 
 
